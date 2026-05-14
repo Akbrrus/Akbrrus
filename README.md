@@ -10,9 +10,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Akbrrus&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
+  <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=Akbrrus&theme=dark&hide_border=false" />
-  <br/>
+  <br/><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Akbrrus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
